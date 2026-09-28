@@ -6,7 +6,7 @@ I am currently a **Science and Technology** student at [**UFRN**](https://www.uf
 I am currently part of [**EJECT**](https://github.com/EJECT4UFRN), a junior enterprise that provides digital solutions for website and system development, and I currently work as a **Junior Back-end Developer**.
 
 ### Skills
-<table>
+<table border="0">
     <tr>
         <td style="padding: 0px 5px 0px 0px; margin: 0px">
             <img src="https://img.shields.io/badge/Django-1B1A26?style=for-the-badge&logo=django&logoColor=fe428e" style="border: 2px solid white; border-radius: 4px;" />
@@ -25,7 +25,7 @@ I am currently part of [**EJECT**](https://github.com/EJECT4UFRN), a junior ente
 
 ### My Status
 
-<table style="margin: 0px">
+<table border="0" style="margin: 0px">
   <tr>
     <td style="padding: 0px 5px 0px 0px; margin: 0px">
       <a href="https://github-stats-extended.vercel.app/api?username=Emanuel0505">
